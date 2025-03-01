@@ -127,4 +127,4 @@ contract ChatApp {
     function getAllUsersRegistered() public view returns (allUsersRegistered[] memory) {
         return getAllUsers;
     }
-};
+}
